@@ -1,0 +1,16 @@
+{
+  "login": [
+    {
+      "email": "shan@mail",
+      "password": "pass"
+    },
+    {
+      "email": "shan2@mail",
+      "password": "pass"
+    },
+    {
+      "email": "shan3@mail",
+      "password": "pass"
+    }
+  ]
+}
